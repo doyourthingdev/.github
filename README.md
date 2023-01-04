@@ -1,2 +1,0 @@
-# doyourthingdev
-README.md
